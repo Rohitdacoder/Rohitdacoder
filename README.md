@@ -145,60 +145,6 @@ src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resour
         alt="django" width="40" height="40"
     /> 
  </a> -->
-<!-- HTML-->
- <!-- <a
-    href="https://html5.org/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-        alt="html" width="40" height="40"
-    /> 
- </a> -->
-<!-- CSS-->
- <!--<a
-    href="https://www.css3.com/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-        alt="css" width="40" height="40"
-    /> 
- </a> -->
-<!-- Javascript -->
-<!-- <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40"
-    /> 
- </a> -->
-  <!-- Bootstrap -->
-<!-- <a
-    href="https://getbootstrap.com/"
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-        alt="bootstrap" width="40" height="40"
-    /> 
- </a> -->
-<!-- ReactJS-->
-<!-- <a
-    href="https://react.dev/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-        alt="react" width="40" height="40"
-    /> 
- </a> -->
- <!-- csharp -->
- <!--<a 
-    href="https://docs.microsoft.com/en-us/dotnet/csharp/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> -->
  <!-- java -->
   <a 
     href="https://www.java.com" 
