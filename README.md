@@ -228,19 +228,17 @@ src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resour
 
 <br>
 
-< # <b>Hacktober Fest 2022</b>
+< # <b>Hacktober Fest 2024</b>
 [![An image of @rohitdacoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitdacoder)](https://holopin.io/@rohitdacoder)
 
 ---
 <br> -->
 
 # <b>My GitHub Stats 📊 </b>
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshyadav13&show_icons=true&theme=dark&locale=en&layout=compact" alt="deveshyadav13" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitdacoder&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rohitdacoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshyadav13&theme=dark" alt="deveshyadav13" /></p>--> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitdacoder&theme=dark" alt="Rohitdacoder" /></p>--> 
 
-<!-- Github Stats © github.com/lowlighter--> 
-# [<img alt = "Github Stats" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/github-metrics.svg" width = 500>](https://github.com/Rohitdacoder)
 
 <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
 # [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rohitdacoder)
@@ -250,11 +248,8 @@ src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resour
 <img src="https://github.com/DeveshYadav13/DeveshYadav13/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 
 
-<!-- Holopins --> 
-<!--[![An image of @deveshyadav13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveshyadav13)](https://holopin.io/@deveshyadav13)--> 
-
 <!-- Profile Views --> 
-![Profile Views](https://komarev.com/ghpvc/?username=DeveshYadav13&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohitdacoder&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 <br>
