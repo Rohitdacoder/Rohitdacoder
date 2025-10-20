@@ -6,7 +6,7 @@
 </h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Merienda&size=30&duration=3500&pause=700&color=00F5FF&center=true&vCenter=true&width=1000&lines=Cross+Platform+Developer+(Flutter+%26+Native+Android);Open+Source+Contributor;Hacktoberfest+Participant;Learning+by+Building+Real+Projects+%F0%9F%9A%80%22%20alt=%22Typing%20SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Merienda&size=30&duration=3500&pause=700&color=00F5FF&center=true&vCenter=true&width=1000&lines=Cross+Platform+Developer+(Flutter+%26+Native+Android);Open+Source+Contributor;Hacktoberfest+Participant;Learning+by+Building+Real+Projects" />
 </p>
 
 <img width=380 align="right" alt="Developer GIF" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" /> 
