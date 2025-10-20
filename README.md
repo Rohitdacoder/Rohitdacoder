@@ -48,9 +48,8 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [🎙️ Aapki Awaaz](https://github.com/Rohitdacoder/Aapki_Awaaz) | A voice-based opinion sharing platform that lets users express their thoughts publicly. | Kotlin, Jetpack Compose, Firebase |
-| [🩺 MediCart](https://github.com/Rohitdacoder/MediCart) | Online medicine ordering & healthcare consultation app for smart healthcare access. | Flutter, Dart, Firebase |
-| [📞 Call_Eme](https://github.com/Rohitdacoder/Call_Eme) | Smart emergency calling app that detects and contacts emergency numbers automatically. | Kotlin, Jetpack Compose |
+| [🎙️ Aapki Awaaz](https://github.com/Rohitdacoder/aapkiawaaz.git) | A voice-based opinion sharing platform that lets users express their thoughts publicly. | Flutter, Dart, Supabase |
+| [🩺 MediCart](https://github.com/Rohitdacoder/MediCart) | Online medicine ordering & healthcare consultation app for smart healthcare access. | Kotlin, Jetpack Compose, Firebase |
 | [🤖 HiAi](https://github.com/Rohitdacoder/HiAi) | AI-powered personal assistant app for Android with chat and automation features. | Kotlin, ML Kit, Firebase |
 
 ---
