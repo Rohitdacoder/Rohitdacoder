@@ -19,7 +19,7 @@
 💻 Focused on **Cross-Platform App Development (Flutter + Kotlin)**  
 🧩 Passionate about **Android Development and Open Source**  
 🌱 Constantly learning new frameworks and building real-world projects  
-🔥 Active participant of **Hacktoberfest 2025**  
+🔥 Active participant of **Hacktoberfest**  
 💬 Ask me about: Kotlin, Flutter, Jetpack Compose, Firebase, GitHub, and App Design  
 ⚡ Fun fact: *I break my own code just to learn how to fix it better 😎*
 
