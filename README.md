@@ -78,6 +78,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdacoder&layout=compact&theme=tokyonight" height="150" />
 </p>
 
+
+# 🐍 My Contribution Snake
+
+![snake gif](https://github.com/Rohitdacoder/Rohitdacoder/blob/output/github-contribution-grid-snake.svg)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rohitdacoder&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
