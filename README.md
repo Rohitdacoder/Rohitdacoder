@@ -84,6 +84,11 @@
 ![snake gif](https://github.com/Rohitdacoder/Rohitdacoder/blob/output/github-contribution-grid-snake.svg)
 
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Rohitdacoder&theme=radical&no-frame=true&no-bg=false&margin-w=15)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rohitdacoder&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
