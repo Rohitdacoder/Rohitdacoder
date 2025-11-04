@@ -55,7 +55,6 @@
 ---
 
 ### 🌍 Open Source & Hacktoberfest  
-
 [![An image of @rohitdacoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitdacoder)](https://holopin.io/@rohitdacoder)
 
 🎯 I actively contribute to **open-source projects** and participate in **Hacktoberfest** every year.  
