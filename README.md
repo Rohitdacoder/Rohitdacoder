@@ -56,14 +56,10 @@
 
 ### 🌍 Open Source & Hacktoberfest  
 
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500">
-</p>
+[![An image of @rohitdacoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitdacoder)](https://holopin.io/@rohitdacoder)
 
 🎯 I actively contribute to **open-source projects** and participate in **Hacktoberfest** every year.  
 🤝 Let’s collaborate and build something impactful together!  
-
-[![An image of @rohitdacoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitdacoder)](https://holopin.io/@rohitdacoder)
 
 ---
 
