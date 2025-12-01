@@ -50,7 +50,7 @@
 |----------|--------------|-------------|
 | [🎙️ Aapki Awaaz](https://github.com/Rohitdacoder/aapkiawaaz.git) | A voice-based opinion sharing platform that lets users express their thoughts publicly. | Flutter, Dart, Supabase |
 | [🩺 MediCart](https://github.com/Rohitdacoder/MediCart) | Online medicine ordering & healthcare consultation app for smart healthcare access. | Kotlin, Jetpack Compose, Firebase |
-| [🤖 HiAi](https://github.com/Rohitdacoder/HiAi) | AI-powered personal assistant app for Android with chat and automation features. | Kotlin, ML Kit, Firebase |
+| [🤖 CodingAgent](https://github.com/Rohitdacoder/Coding_Practice_Agent) | A multi-agent AI-powered DSA practice coach that analyzes your coding profile, finds weak topics, recommends personalized problems, generates practice schedules, and tracks long-term progress — with a complete Android app frontend.. | Kotlin, Agent, Railway |
 
 ---
 
